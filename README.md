@@ -1,16 +1,39 @@
-## Hi there 👋
+<h3 align="center">Gregory Dean</h3>
+<p align="center">
+<span>Cybersecurity Practictioner × Ethical Hacker</span>
+<br/>
+2 years as IT Technician — 1 year in Cybersecurity<br/>
+Open to work
+</p>
 
-<!--
-**gregory-dean/gregory-dean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/d70d672b-e393-41cc-bb5d-5b3f31c4627a" />](https://gregory-dean.com/)
+[<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/a5e07785-9eaf-4f93-9de3-d21c08b52d8f" />](https://www.linkedin.com/in/gregorydean-/)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
+
+
+<p align="center">
+  $${\color{gray} \textsf{Ethical Hacker → Attack paths, vulnerabilities, exploitation}}$$</br>
+  $${\color{gray} \textsf{SOC Analyst → Alerts, investigations, response}}$$</br>
+  $${\color{gray} \textsf{}}$$
+  <a href="mailto:hi@mohamedramadan.dev"></a>
+</p>
+
+<details>
+  <summary><sub>Tech stack</sub></summary>
+  <sub>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Elastic_Stack-%23005571?style=flat-square&logo=Elastic%20Stack&logoColor=white">
+
+  </sub>
+</details>
+
+
+
+
+
+
