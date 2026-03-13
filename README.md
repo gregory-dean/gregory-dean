@@ -60,6 +60,17 @@ Open to work
   </sub>
 </details>
 
+<details>
+  <summary><sub>Current Projects</sub></summary>
+  <sub>
+
+
+
+    
+  </sub>
+
+  
+</details>
 
 
 
