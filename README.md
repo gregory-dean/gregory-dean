@@ -28,9 +28,9 @@ Open to work
   <summary><sub>Tech Stack | Skills</sub></summary>
   <sub>
      <img alt="Static Badge" src="https://img.shields.io/badge/OWASP-%23000000?style=flat-square&logo=OWASP&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Splunk-%23000000?style=flat-square&logo=Splunk&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/AlienVault-%23000000?style=flat-square&logo=Alienware&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/HackerOne-%23494649?style=flat-square&logo=HackerOne&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Kali_Linux-%23557C94?style=flat-square&logo=Kali%20Linux&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Wireshark-%231679A7?style=flat-square&logo=Wireshark&logoColor=white">
