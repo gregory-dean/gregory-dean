@@ -62,14 +62,19 @@ Open to work
 
 <details>
   <summary><sub>Current Projects</sub></summary>
-  <sub>
 
+<br>
 
+🔹 <b>Cybersecurity Homelab</b>  
+Infrastructure for SIEM monitoring, network analysis, and defensive security experimentation.  
+<a href="https://github.com/gregory-dean/cybersecurity-homelab">Repository</a>
 
-    
-  </sub>
+<br>
 
-  
+🔹 <b>Pentesting Lab</b>  
+Environment for practicing penetration testing, vulnerability discovery, and exploitation techniques.  
+<a href="https://github.com/gregory-dean/security-testing-lab">Repository</a>
+
 </details>
 
 
