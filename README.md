@@ -12,6 +12,8 @@
   My technical focus right now is SOC analysis, web app penetration testing, and IT architecture.
 </p>
 
+<hr>
+
 <p align="center" style="text-align: center">
   <br>
   <sub>P R O J E C T S</sub>
