@@ -1,5 +1,5 @@
 <p align="center" style="text-align: center">
-  <img src="greg-dean-github-banner-name-spaced-centred-2560x640@2x.png" width="100%" alt="Greg Dean">
+  <img src="greg-dean-github-banner-edge-on-2560x640.png" width="100%" alt="Greg Dean">
   <br><br>
   <b>Security Analyst · Threat Hunter</b>
 </p>
